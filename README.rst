@@ -29,4 +29,10 @@ ARCHLINUX
 *********
 ::
 
-    yaourt -S fetcher
+    yaourt -S fetcher (or any other AUR wrapper)
+
+GENERAL
+*******
+In package main directory::
+
+    python2 setup.py install
