@@ -2,10 +2,13 @@ Fetcher is aimed to be fully-featured music management suite, including library 
 but keep in mind that it's still in beta stage, so some features may be still missing or not fully working.
 
 At the moment, those features are considered "working":
+
 - Library
+
 - Internet DB checking:
     - metal-archives
     - discogs (see usage notes)
+
 - Playback
     - last.fm/libre.fm scrobbling
 
