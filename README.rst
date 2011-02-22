@@ -5,11 +5,11 @@ At the moment, these features are considered "working":
 
 - Library
 - Internet DB checking
-    - metal-archives
-    - discogs (see usage notes)
+  - metal-archives
+  - discogs (see usage notes)
 
 - Playback
-    - last.fm/libre.fm scrobbling
+  - last.fm/libre.fm scrobbling
 
 INSTALLATION
 ============
