@@ -38,6 +38,12 @@ In package main directory::
     python2 setup.py install
 
 WINDOWS
-=======
+-------
 You should have no problems with provided installer (just few clicks ;). If you want to build it on your own then... you're on your own.
 
+USAGE
+=====
+NOTES
+-----
+- Keep in mind that first time refresh could take quite some time, but then it should be much faster :).
+- Discogs is a mess, use at your own risk (Note: It seems they're writing new API, maybe i'll re-visit it in some time).
